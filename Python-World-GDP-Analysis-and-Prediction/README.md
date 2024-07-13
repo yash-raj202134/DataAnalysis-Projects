@@ -13,8 +13,7 @@ This repository contains a data analysis and predictive system for analyzing and
 # Getting Started:
 To use this project, follow these steps:
 1. Clone the repository to your local machine:
-   git clone https://github.com/611noorsaeed/world-gdp-analysis.git
-   cd world-gdp-analysis
+
 2. Install the required Python libraries using pip:
    pip install -r requirements.txt
 3. Run the Streamlit app:
