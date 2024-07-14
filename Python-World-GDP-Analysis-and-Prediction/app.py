@@ -4,7 +4,7 @@ import seaborn as sns # type: ignore
 import matplotlib.pyplot as plt # type: ignore
 import numpy as np
 import pickle
-from helper import HelperClass  # type: ignore
+from utility import HelperClass  # type: ignore
 
 # load the models
 model = pickle.load(open('models/model_dtr.pkl','rb'))
